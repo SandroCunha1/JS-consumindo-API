@@ -75,3 +75,7 @@
     line-height: 18px;
     color: var(--vermelho);
 }
+
+.erro-cep{
+    border-color: red;
+}
